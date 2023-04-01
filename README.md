@@ -2,6 +2,9 @@
 ---
 # 📑 Sobre mi
 Programador **backend**, disfruto mucho experimentar y crear/descubrir cosas nuevas por mi cuenta y implementarlas a mis **proyectos**
+# 👓 Conocimientos
+> [![Java](https://img.shields.io/badge/-Java-green?style=for-the-badge&logo=apachemaven)]()<br/>
+
 # 🌱 Proyectos
 - Próximamente ™️
 # 📫 Estadísticas
