@@ -9,7 +9,7 @@ Programador **backend**, disfruto mucho experimentar y crear/descubrir cosas nue
 > [![MongoDB](https://img.shields.io/badge/-MongoDB-74fc8b?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()<br/>
 
 # 🌱 Proyectos
-- Próximamente ™️
+- [x] Minecraft Plugins Updater via Github Repo
 # 📫 Estadísticas
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SystemTheCow&label=Profile%20views&color=0e75b6&style=flat" alt="SystemTheCow" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SystemTheCow&theme=tokyonight&show_icons=true&locale=en&layout=compact"alt="SystemTheCow"/></p>
