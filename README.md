@@ -3,7 +3,7 @@
 # 📑 Sobre mi
 Programador **backend**, disfruto mucho experimentar y crear/descubrir cosas nuevas por mi cuenta y implementarlas a mis **proyectos**
 # 👓 Conocimientos
-> [![Java](https://img.shields.io/badge/-Java-3b85d1?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=101010)]()<br/>
+> [![Java](https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=101010)]()<br/>
 > [![Node.Js](https://img.shields.io/badge/-Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()<br/>
 
 # 🌱 Proyectos
