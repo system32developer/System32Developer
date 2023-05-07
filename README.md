@@ -7,7 +7,8 @@ Programador **backend**, disfruto mucho experimentar y crear/descubrir cosas nue
 > [![Node.Js](https://img.shields.io/badge/-Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()<br/>
 > [![Javascript](https://img.shields.io/badge/-Javascript-3b85d1?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
 > [![MongoDB](https://img.shields.io/badge/-MongoDB-74fc8b?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()<br/>
-
+> [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)]()<br/>
+> 
 # 🌱 Proyectos
 - [x] Minecraft Plugins Updater via Github Repo
 # 📫 Estadísticas
